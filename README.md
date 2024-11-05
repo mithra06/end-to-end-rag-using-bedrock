@@ -1,1 +1,1 @@
-# end-to-end-rag-using-bedrock
+# End-to-End-RAG-using-Bedrock
